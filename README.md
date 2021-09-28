@@ -1,2 +1,0 @@
-# HerokuJavaApp
-Heroku Java App
